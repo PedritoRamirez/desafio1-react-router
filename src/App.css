@@ -1,0 +1,12 @@
+.textBlank{
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+}
+.contPas{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
